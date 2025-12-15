@@ -1,0 +1,5 @@
+streamlit
+requests
+pandas
+datasets
+huggingface_hub
