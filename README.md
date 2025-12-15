@@ -26,7 +26,7 @@ This repository contains my submission for the Fynd AI Intern take-home assignme
 ## Deployment Links (Mandatory)
 
 - **Feedback Dashboard (Streamlit):**  
-  https://huggingface.co/spaces/Kirtan111/ai-feedback-dashboard
+  [https://huggingface.co/spaces/Kirtan111/ai-feedback-dashboard](https://kirtan111-fynd.hf.space)
 
 - **Feedback Dataset:**  
   https://huggingface.co/datasets/Kirtan111/ai-feedback-data
